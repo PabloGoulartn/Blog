@@ -690,6 +690,11 @@ video {
   background-color: rgb(244 208 78 / var(--tw-bg-opacity, 1));
 }
 
+.hover\:text-\[\#F4D04E\]:hover {
+  --tw-text-opacity: 1;
+  color: rgb(244 208 78 / var(--tw-text-opacity, 1));
+}
+
 @media (min-width: 640px) {
   .sm\:w-96 {
     width: 24rem;
