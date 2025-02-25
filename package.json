@@ -8,7 +8,7 @@
   "version": "1.0.0",
   "main": "tailwind.config.js",
   "scripts": {
-    "build": "tailwindcss build src/style.css -o dist/style.css"
+    "build": "tailwindcss build src/input.css -o dist/style.css"
   },
   "dependencies": {
     "ansi-regex": "^6.1.0",
