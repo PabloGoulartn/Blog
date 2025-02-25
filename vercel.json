@@ -1,0 +1,13 @@
+{
+    "builds": [
+      {
+        "src": "src/style.css",
+        "use": "@vercel/static"
+      },
+      {
+        "src": "src/**/*.html",
+        "use": "@vercel/static"
+      }
+    ]
+  }
+  
